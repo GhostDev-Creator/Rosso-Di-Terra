@@ -54,4 +54,13 @@ A seção final da Landing Page apresenta um formulário para **coleta de inform
 Este projeto foi criado por estudantes do curso técnico.
 
 ---
+
+## 🔒 Direitos Autorais e Licença
+**Este projeto foi desenvolvido como parte de um trabalho de conclusão para a matéria de Projeto do curso técnico.**
+
+O código-fonte é de **propriedade dos alunos desenvolvedores** e **não pode ser copiado, distribuído ou utilizado para fins comerciais** sem autorização expressa.
+
+**Todos os direitos reservados.**
+
+---
 *Agradecemos a visita. Saúde! 🥂*
