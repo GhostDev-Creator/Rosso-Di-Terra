@@ -10,7 +10,7 @@ O objetivo principal desta Landing Page foi demonstrar as competências em desen
 ## 🌐 Link do Projeto
 Você pode visualizar a Landing Page e interagir com o formulário através do link abaixo:
 
-**[Visitar Rosso di Terra](https://ghostdev-creator.github.io/Rosso-Di-Terra/#formulario)**
+**[Visitar Rosso di Terra](https://ghostdev-creator.github.io/Rosso-Di-Terra/)**
 
 ---
 
