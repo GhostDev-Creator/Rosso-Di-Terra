@@ -1,9 +1,14 @@
 # 🍷 Rosso di Terra | Coleção Vintage Exclusiva
 
 ## 📜 Visão Geral do Projeto e Contexto Acadêmico
+
 O **Rosso Di Terra** é um projeto de Landing Page fictícia desenvolvido como **atividade prática de avaliação** para o curso técnico em Desenvolvimento de Sistemas.
 
 O objetivo principal desta Landing Page foi demonstrar as competências em desenvolvimento front-end, promovendo uma coleção de vinhos vintage de uma adega imaginária.
+
+### 🍇 Tema do Projeto: Adega e Destilaria Vintage
+
+A Landing Page foi criada em torno de uma **Adega Familiar Vintage**, o **Rosso Di Terra**. O tema explora a **tradição na vinificação** da família, com um toque sofisticado para comunicar sua recente **expansão para a produção de destilados** finos. O design e as cores (Vinho Profundo, Cobre Envelhecido) refletem essa herança e o luxo discreto dos produtos.
 
 **Este projeto representa a entrega final de uma atividade curricular.**
 
