@@ -10,7 +10,7 @@ O objetivo principal desta Landing Page foi demonstrar as competências em desen
 ## 🌐 Link do Projeto
 Você pode visualizar a Landing Page e interagir com o formulário através do link abaixo:
 
-**[Visitar Rosso di Terra](https://ghostdev-creator.github.io/Rosso-Di-Terra/)**
+**[Visitar Rosso Di Terra](https://ghostdev-creator.github.io/Rosso-Di-Terra/)**
 
 ---
 
@@ -29,7 +29,7 @@ Utilizamos variáveis CSS (`:root`) para definir e aplicar um esquema que combin
 O site foi construído utilizando as tags semânticas obrigatórias para a atividade (incluindo `<aside>`, `<section>` e `<footer>`).
 
 O site é composto pelas seguintes seções principais, garantindo uma experiência completa ao usuário:
-1.  **Hero/Destaque:** Apresentação da marca `Rosso di Terra`.
+1.  **Hero/Destaque:** Apresentação da marca `Rosso Di Terra`.
 2.  **Descrição do Produto:** Detalhes sobre a coleção de vinho vintage.
 3.  **Características e Benefícios:** Destaque para o *terroir*, envelhecimento e exclusividade.
 4.  **Formulário de Contato/Inscrição:** Mecanismo para coletar leads de clientes interessados.
